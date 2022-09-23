@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joaquinmanresa/joaquinmanresa.github.io.git/static/css/main.1815f15b.css",
+    "main.js": "/joaquinmanresa/joaquinmanresa.github.io.git/static/js/main.dcde5836.js",
+    "static/media/cv.pdf": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/portfolio5.png": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me3.png": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/me3.bb2747d70a784b09dd2a.png",
+    "static/media/portfolio2.jpg": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/code.jpeg": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/code.d4ed1133c72e257699f1.jpeg",
+    "static/media/portfolio1.jpg": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/joaquinmanresa/joaquinmanresa.github.io.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/joaquinmanresa/joaquinmanresa.github.io.git/index.html",
+    "main.1815f15b.css.map": "/joaquinmanresa/joaquinmanresa.github.io.git/static/css/main.1815f15b.css.map",
+    "main.dcde5836.js.map": "/joaquinmanresa/joaquinmanresa.github.io.git/static/js/main.dcde5836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1815f15b.css",
+    "static/js/main.dcde5836.js"
+  ]
+}
