@@ -1,4 +1,4 @@
 # joaquinmanresa.github.io
 
-# Para convertir el sitio a un archivo mas comprimido -> 'Optimizacion de produccion'
+# Para convertir el sitio a un archivo 'Optimizado para produccion'
 npm run build 
