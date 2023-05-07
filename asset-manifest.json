@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.981e9fa7.css",
-    "main.js": "/static/js/main.fd4ad425.js",
-    "static/media/fondo.mp4": "/static/media/fondo.697e5cb4162823582123.mp4",
+    "main.js": "/static/js/main.85ea3c92.js",
+    "static/media/miniaturaTurismo.png": "/static/media/miniaturaTurismo.755767ba52cd0e9edb4c.png",
     "static/media/ocean.png": "/static/media/ocean.b8b2379135b617336058.png",
+    "static/media/trabajando.jpg": "/static/media/trabajando.f33f9f605f7c52e4f6a6.jpg",
     "static/media/sg2.png": "/static/media/sg2.5bcb5e660763d0cc8842.png",
     "static/media/crud.jpg": "/static/media/crud.b6cbaaea14a469de9c7d.jpg",
     "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/me3.png": "/static/media/me3.bb2747d70a784b09dd2a.png",
-    "static/media/cv.pdf": "/static/media/cv.40804130ebfb7aa33a90.pdf",
+    "static/media/cv.pdf": "/static/media/cv.deec41ef539c168ad45f.pdf",
+    "static/media/transparente2.png": "/static/media/transparente2.43854c7ad675b1cf8905.png",
     "static/media/lea.jpg": "/static/media/lea.dfedd9e9e7eb713c31e4.jpg",
     "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/code.jpeg": "/static/media/code.d4ed1133c72e257699f1.jpeg",
     "static/media/crud2.png": "/static/media/crud2.9eb55f1032aee8240f56.png",
     "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/index.html",
     "main.981e9fa7.css.map": "/static/css/main.981e9fa7.css.map",
-    "main.fd4ad425.js.map": "/static/js/main.fd4ad425.js.map"
+    "main.85ea3c92.js.map": "/static/js/main.85ea3c92.js.map"
   },
   "entrypoints": [
     "static/css/main.981e9fa7.css",
-    "static/js/main.fd4ad425.js"
+    "static/js/main.85ea3c92.js"
   ]
 }
